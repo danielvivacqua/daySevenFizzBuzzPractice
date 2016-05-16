@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySevenFizzBuzzPractice\daySevenFizzBuzzPractice\bin\Debug\daySevenFizzBuzzPractice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySevenFizzBuzzPractice\daySevenFizzBuzzPractice\bin\Debug\daySevenFizzBuzzPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySevenFizzBuzzPractice\daySevenFizzBuzzPractice\bin\Debug\daySevenFizzBuzzPractice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySevenFizzBuzzPractice\daySevenFizzBuzzPractice\obj\Debug\daySevenFizzBuzzPractice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySevenFizzBuzzPractice\daySevenFizzBuzzPractice\obj\Debug\daySevenFizzBuzzPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySevenFizzBuzzPractice\daySevenFizzBuzzPractice\obj\Debug\daySevenFizzBuzzPractice.pdb
